@@ -2,11 +2,16 @@ rocks-tools
 ===========
 
 This is a set of scripts to manage a rocks cluster.
+---------------------------------------------------
 
->Juan David Pineda C. <jpineda2@eafit.edu.co>
->Alejandro Gómez L. <agomezl@eafit.edu.co>
->Mateo Gómez Z. <mateito505@gmail.com>
+#### People
 
->Universidad EAFIT
->Medellín - Colombia
->2012
+> * Juan David Pineda C. <jpineda2@eafit.edu.co>
+
+> * Alejandro Gómez L. <agomezl@eafit.edu.co>
+
+> * Mateo Gómez Z. <mateito505@gmail.com>
+
+**Universidad EAFIT**
+*Medellín - Colombia*
+*2012*
